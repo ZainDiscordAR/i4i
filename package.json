@@ -1,0 +1,25 @@
+{
+  "name": "i4i",
+  "version": "1.0.0",
+  "description": "i4i Free Link Shorting Service",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "4url",
+    "i4i",
+    "url",
+    "shortner",
+    "link",
+    "i8ae",
+    "vgd"
+  ],
+  "author": "ZainDiscordAR <contact@zainz.ml>",
+
+  "license": "MIT"
+}
